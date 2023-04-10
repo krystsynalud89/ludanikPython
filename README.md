@@ -1,2 +1,2 @@
-# task1
+# technicalTasks
 technical tasks for Andersen
